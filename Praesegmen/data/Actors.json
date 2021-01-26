@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"ActorMirundar","characterIndex":0,"characterName":"ActorMirundar","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"ActorMirundar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mirundar","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"ActorGonin","characterIndex":0,"characterName":"ActorGonin","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"ActorGonin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gonin","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"ActorErmint","characterIndex":0,"characterName":"ActorErmint","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"ActorErmint","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ermint","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"ActorDaemaris","characterIndex":0,"characterName":"ActorDaemaris","classId":1,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"ActorDaemaris","traits":[],"initialLevel":1,"maxLevel":99,"name":"Daemaris","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"ActorDeek","characterIndex":0,"characterName":"ActorDeek","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ActorDeek","traits":[],"initialLevel":1,"maxLevel":99,"name":"Deke","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"ActorCaius","characterIndex":0,"characterName":"ActorCaius","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ActorCaius","traits":[],"initialLevel":1,"maxLevel":99,"name":"Caius","nickname":"","note":"","profile":""}
+]
